@@ -9,5 +9,3 @@ Config["translations"] = {
     tooClose = "Demasiado cerca de otro altavoz!",
     pickUp = "Presiona [E] para usar y [G] para recoger",
   }
-  
-
