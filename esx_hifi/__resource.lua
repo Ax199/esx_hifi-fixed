@@ -8,14 +8,14 @@ server_scripts {
     '@es_extended/locale.lua',
     'locales/es.lua',
     'server/main.lua',
-    'server/m-main.lua',
+    'server/server.lua',
     'config.lua'
 }
 
 client_script {
     '@es_extended/locale.lua',
     'client/main.lua',
-    'client/m-main.lua',
+    'client/client.lua',
     'locales/es.lua',
     'config.lua'
 }
