@@ -1,4 +1,3 @@
---SCRIPT FIXEADO POR alvaro199#0054 "extendedmode"
 local speakers = {}
 
 local coords = {}
