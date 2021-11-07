@@ -1,4 +1,3 @@
---SCRIPT FIXEADO POR alvaro199#0054 "extendedmode"
 local cacheSpeaker = {}
 local placedSpeaker = {}
 local placedSpeakerCoords = nil
