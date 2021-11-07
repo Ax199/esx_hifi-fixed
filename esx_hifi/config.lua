@@ -7,6 +7,6 @@ Config["translations"] = {
     pickUp = "Presiona [E] para usar y [G] para recoger",
   }
   
-  Config.Enable3DText = true
-  Config.UsingESX = true
-  Config.EnableCommand = true 
+ Config.Enable3DText = true
+ Config.UsingESX = true
+ Config.EnableCommand = true 
