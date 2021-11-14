@@ -1,4 +1,4 @@
-# esx_hifi-fixed 📻
+# esx_hifi-fixed
 
 bug with radio item fixed, now it's by command 'boombox'.
 
