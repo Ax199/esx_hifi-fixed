@@ -1,12 +1,12 @@
 Config = {}
 Config.Locale = 'es'
-Config.distance = 15
+Config.distance = 15 
+Config.Enable3DText = true 
+Config.UsingESX = true
+Config.EnableCommand = true 
+
 
 Config["translations"] = {
     tooClose = "~r~Too close to another speaker!",
-    pickUp = "Presiona [E] para usar y [G] para recoger",
+    pickUp = "Press [E] to use and [G] to pick up",
   }
-  
-  Config.Enable3DText = true
-  Config.UsingESX = true
-  Config.EnableCommand = true 
