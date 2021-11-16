@@ -1,5 +1,5 @@
 Config = {}
-Config.Locale = 'es'
+Config.Locale = 'en'
 Config.distance = 15 
 Config.Enable3DText = true 
 Config.UsingESX = true
