@@ -1,5 +1,5 @@
 Locales ['es'] = {
-    ['put_hifi'] = 'Acabas de soltar la BoomBox',
+    ['put_hifi'] = 'Acabas de soltar la radio',
 	['play_music'] = 'Iniciar la musica',
 	['stop_music'] = 'Parar la musica',
 	['volume_music'] = 'Ajustar el volumen',
